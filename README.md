@@ -8,6 +8,7 @@ Given n cities and distances between every pair of cities, we need to select k c
 ## Objectives
 
 The main objectives were :
-1.To find the best possible accurate result for maximum inputs.
-2.To provide solution to a problem where  maximum distance objects can also access a particular requirement in a minimum length of complexity.
-3.To choose k vertices as centers in a weighted undirected graph in which the edge weights obey the triangle inequality so that the maximum distance of any vertex to its nearest center is minimized.
+
+1. To find the best possible accurate result for maximum inputs.
+2. To provide solution to a problem where  maximum distance objects can also access a particular requirement in a minimum length of complexity.
+3. To choose k vertices as centers in a weighted undirected graph in which the edge weights obey the triangle inequality so that the maximum distance of any vertex to its nearest center is minimized.
